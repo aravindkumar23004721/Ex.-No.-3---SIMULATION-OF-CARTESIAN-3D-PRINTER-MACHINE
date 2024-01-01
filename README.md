@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-11-20 at 18 42 03_d1bad7e3](https://github.com/aravindkumar23004721/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148962674/f6cbb847-a35d-4cfa-a27a-16748eccdee7)# Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+### Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 ### DATE: 
 
 ## AIM:
@@ -47,19 +47,12 @@
 ###   2.	Move the y-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the y-axis assembly.
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
-## OUTPUT
-![![WhatsApp Image 2023-11-20 at 18 42 03_d1bad7e3](https://github.com/aravindkumar23004721/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148962674/db87d9f8-7351-4e9d-a53d-15032bf768ad)
-
-![![WhatsApp Image 2023-11-20 at 18 42 34_8383448c](https://github.com/aravindkumar23004721/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148962674/4d92b50c-bfcd-4189-bc3c-e5aa4075b41a)
-
-![![WhatsApp Image 2023-11-20 at 18 42 51_0f8e2b0c](https://github.com/aravindkumar23004721/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148962674/c16c92de-1c93-43f5-9eae-01ec7fa078e2)
-
-![![WhatsApp Image 2023-11-20 at 18 43 09_5bcd84bb](https://github.com/aravindkumar23004721/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148962674/62c008a1-d07f-41f8-9999-11bc3e337123)
-
-![![WhatsApp Image 2023-11-20 at 18 43 36_80687c28](https://github.com/aravindkumar23004721/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148962674/aba30b4d-876f-4276-8d1a-808ab33b6a04)
-
-## Output:
-
+### OUTPUT:
+![WhatsApp Image 2023-11-20 at 18 42 03_d1bad7e3](https://github.com/aravindkumar23004721/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148962674/db87d9f8-7351-4e9d-a53d-15032bf768ad)
+![WhatsApp Image 2023-11-20 at 18 42 34_8383448c](https://github.com/aravindkumar23004721/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148962674/4d92b50c-bfcd-4189-bc3c-e5aa4075b41a)
+![WhatsApp Image 2023-11-20 at 18 42 51_0f8e2b0c](https://github.com/aravindkumar23004721/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148962674/c16c92de-1c93-43f5-9eae-01ec7fa078e2)
+![WhatsApp Image 2023-11-20 at 18 43 09_5bcd84bb](https://github.com/aravindkumar23004721/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148962674/62c008a1-d07f-41f8-9999-11bc3e337123)
+![WhatsApp Image 2023-11-20 at 18 43 36_80687c28](https://github.com/aravindkumar23004721/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148962674/aba30b4d-876f-4276-8d1a-808ab33b6a04)
 ### Name:Aravind kumar sasikumar samundi
 ### Register Number:23004721
 
